@@ -39,7 +39,11 @@ class Persona
         cout<<"Su estatura es : "<<estatura<<endl<<endl;
 		cout<<"=============================================================="<<endl<<endl;
 	}
-	//calcular edad
+
+        //**************************************
+	         //calcular la edad
+        //***************************************
+
 	void edad(int aa,int ma,int da) 
   	{
   		if(da>dn)
@@ -67,7 +71,10 @@ class Persona
    	{
    		cout<<"Su edad es : "<<a<<" Anos, "<<m<<" Meses y "<<d<<" Dias."<<endl;
    	}
-	//calcular indice de masa corporal.
+        
+        //*************************************************
+	       //calcular indice de masa corporal.
+        //**************************************************
 	void IMC(float i)
  	{
  		imc = peso/(estatura*estatura); 
@@ -94,7 +101,11 @@ class Persona
     		cout<< "Obesidad, Le recomendamos comer sano, hacer ejercicio y acudir a un profesional." << "\n\n"; 	
 		}
  	}
-	//guardar archivo txt.
+        
+        //**************************************
+	          //guardar archivo txt.
+        //**************************************
+
 	void guardar()
 	{
  		ofstream work;
@@ -118,7 +129,10 @@ class Persona
 		cout<<"SUS DATOS SE GUARDAON CON EXITO \n\n";
 		work.close();
  	}
-	//recuperar datos de archivo y mostrar
+         
+        //***********************************************
+	       //recuperar datos de archivo y mostrar
+        //***********************************************
 	void rym()
  	{
  		ifstream work;
