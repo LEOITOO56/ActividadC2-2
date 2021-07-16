@@ -27,13 +27,21 @@ int main()
 		system("cls");
 		switch(op)
 		{
+                   //*******************************************************
+                                    //kerly Nieves 
+                   //********************************************************
+
 			case 1:
 			PEPE.ingresar();
 			PEPE.mostrar();
 			system("pause");
 			break;
 			cout<<"La edad que tiene es:";
-	    	case 2:
+               //************************************************************
+	    	                    //josue Lastra 
+                //***********************************************************
+
+                case 2:
 	    	cout<<"-----||CALCULO DE EDAD||-----"<<endl;	
 	    	cout<<"Por favor ingrese la fecha actual (AA/MM/DD): \n"; 
         	cin>>aa>>ma>>da;
@@ -41,15 +49,32 @@ int main()
 	    	PEPE.edad2();	
 			system("pause");	
 			break;
+
+                  //*********************************************************
+                                        //GERALD SWUANSON 
+                  //*********************************************************
+
 			case 3:
 			PEPE.IMC(imc);
 			system("pause");
 			break;
-			case 4:
+			
+                    //********************************************************
+                                    //EDIZON RAMÍREZ 
+                    //********************************************************
+
+                        case 4:
 			PEPE.guardar();
 			system("pause");
 			break;
-			case 5:
+
+	
+                
+               //******************************************************
+                                 //EDIZON RAMÍREZ 
+               //******************************************************
+
+            	case 5:
 	    	PEPE.rym();
 	    	system("pause");
 			break;
@@ -62,7 +87,7 @@ int main()
 		}		  
 		if(op==0)
 		{
-			cout<<"Salimos del Sistema: "<<endl;
+			cout<<"Salir del programa : "<<endl;
 		}
 	}		
 	while(op!=0);
