@@ -82,7 +82,7 @@ class Persona
      	else
    		if (18.5<imc&&imc<=24.9)
  		{
-  		  	cout<< "Peso normal �FELICIDADES! tines el peso correcto." << "\n\n" ;
+  		  	cout<< "Peso normal ¡FELICIDADES! tines el peso correcto." << "\n\n" ;
 		}
       	else
    		if (25<imc&&imc<29.0)
@@ -137,3 +137,7 @@ class Persona
 	 	work.close();
 	}	
 };
+//kerly Nieves 
+//Edizon Ramírez 
+//gerald swuanson 
+//josue Lastra 
