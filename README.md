@@ -40,16 +40,16 @@ Descripción
 * 4.- Guardar los datos en un archivo .txt.
 * 5.- Recuperar los datos desde el archivo .txt y mostrarlos por pantalla.
 
-Punto1= La persona o el usuario deberá  ingresar sus datos para  esta pequeña información  este de forma asignad en el programa.
+Punto 1. La persona o el usuario deberá  ingresar sus datos para  esta pequeña información  este de forma asignad en el programa.
 
-Punto2= El usuario realizara el proceso de calcular la edad de que forma  realizara la acción, el usuario deberá introducir sus datos de nacimiento como año mes y día.
+Punto 2. El usuario realizara el proceso de calcular la edad de que forma  realizara la acción, el usuario deberá introducir sus datos de nacimiento como año mes y día.
 
-Punto3= El programa realizar que atreves   que el usuario ingrese su estado o su índice corporal le saldar una información donde le indica si esta gordo, 
+Punto 3. El programa realizar que atreves   que el usuario ingrese su estado o su índice corporal le saldar una información donde le indica si esta gordo, 
 flaco, dependiendo su índice lo felicitara o le recomendara alguna acción para que corrija un sobre peso en su cuerpo.
 
-Punto4= en este paso el propio programa solo tiene almacenar esa dicha información en un bloc de nota y su extensión es .txt
+Punto 4. en este paso el propio programa solo tiene almacenar esa dicha información en un bloc de nota y su extensión es .txt
 
-Punto5= El propia programa tendría que mostrar esta dicha información en una extensión .txt
+Punto 5. El propia programa tendría que mostrar esta dicha información en una extensión .txt
 
 Instalación
 -----------
