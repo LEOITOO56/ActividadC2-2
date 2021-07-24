@@ -40,7 +40,7 @@ Descripción
 * 4.- Guardar los datos en un archivo .txt.
 * 5.- Recuperar los datos desde el archivo .txt y mostrarlos por pantalla.
 
-Punto 1. La persona o el usuario deberá  ingresar sus datos para  esta pequeña información  este de forma asignad en el programa.
+Punto 1. El usuario deberá  ingresar sus datos para  esta pequeña información  este de forma asignad en el programa.
 
 Punto 2. El usuario realizara el proceso de calcular la edad de que forma  realizara la acción, el usuario deberá introducir sus datos de nacimiento como año mes y día.
 
